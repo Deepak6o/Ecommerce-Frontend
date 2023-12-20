@@ -25,3 +25,15 @@
    gap: 20px;
    flex-wrap: wrap;
 }
+.shopcategory-loadmore{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 150px auto;
+    width: 233px;
+    height: 69px;
+    border-radius: 75px;
+    background: #cac7c7;
+    font-size: 18px;
+    font-weight: 500;
+}
